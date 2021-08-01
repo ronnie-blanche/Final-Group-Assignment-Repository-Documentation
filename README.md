@@ -2,8 +2,8 @@
 ## Table of contents
 * [Objective](#objective)
 * [Technologies](#technologies)
-* [How Can It Be Repurposed] (#how-can-it-be-repurposed)
-* [Features and Screen Shots] (#features-and-screen-shots)
+* [How Can it be Repurposed](#how-can-it-be-repurposed)
+* [Features](#features)
 
 ## Objective
 We hope to support queer and trans UCLA students in sharing their experiences with finding housing so the community can begin to understand the impact of Westwood’s high rent prices on students, including their ability to pursue educational and personal goals. We are also interested in seeing how students’ gender and sexual identities impact and intersect with their housing security, and what resources may be developed to support queer and trans UCLA students looking for safe and affordable housing. With this information we hope the school can begin identifying community-based solutions to high rent prices in Westwood and to the disparities in housing security faced by queer and trans students.
@@ -19,7 +19,7 @@ This projects was created with:
 ## How Can It Be Repurposed
 Our goal is that this research will aid  LGBTQ+ students at UCLA in identifying common experinces and brainstorming community-based/institutional solutions so that there is more inclusive housing for students. We also hope that this model can be replicated at other campuses and for other groups of marignalized students too. Through amplifying the voices of UCLA’s very own queer and trans undergraduate and graduate students, we hope to provide a platform that ultimately helps UCLA create and provide more resources and accommodations for marginalized students.
 
-## Features and Screen Shots
+## Features
 Overview of mapplcation 
 <img width="1280" alt="Screen Shot 2021-07-31 at 10 57 21 PM" src="https://user-images.githubusercontent.com/86099295/127761033-3fc13ea9-a65e-4e68-b99e-008afc283cd9.png">
 
