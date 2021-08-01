@@ -22,10 +22,13 @@ Our goal is that this research will aid  LGBTQ+ students at UCLA in identifying 
 ## Features and Screen Shots
 Overview of mapplcation 
 <img width="1280" alt="Screen Shot 2021-07-31 at 10 57 21 PM" src="https://user-images.githubusercontent.com/86099295/127761033-3fc13ea9-a65e-4e68-b99e-008afc283cd9.png">
+
 "Take Our Survery" button brings you to our Google Form
 <img width="1280" alt="Screen Shot 2021-07-31 at 10 57 52 PM" src="https://user-images.githubusercontent.com/86099295/127761075-6a80c7d5-1d19-44c0-91ce-6726d9ea6160.png">
+
 "More Resources" button direcct you to our memo
 <img width="1280" alt="Screen Shot 2021-07-31 at 10 58 14 PM" src="https://user-images.githubusercontent.com/86099295/127761092-512ac22d-1466-4f1f-9012-bbc8cd58f020.png">
+
 "Visit Repository" takes you to our Git repository so you can view our data, codes, etc.
 <img width="1280" alt="Screen Shot 2021-07-31 at 10 58 26 PM" src="https://user-images.githubusercontent.com/86099295/127761164-362083fd-c6b3-4cb7-a613-10477ecdad2e.png">
 
