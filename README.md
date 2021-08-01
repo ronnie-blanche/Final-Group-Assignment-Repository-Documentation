@@ -1,4 +1,4 @@
-# Alphabetmafia Final-Group-Assignment-Repository-Documentation
+# Alphabetmafia Final Group Assignment Repository Documentation
 ## Table of contents
 * [Objective](#objective)
 * [Technologies](#technologies)
