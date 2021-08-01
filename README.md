@@ -3,7 +3,7 @@
 * [Objective](#objective)
 * [Technologies](#technologies)
 * [How Can It Be Repurposed] (#how-can-it-be-repurposed)
-* Features and Screen Shots (#features-and-screen-shots)
+* [Features and Screen Shots] (#features-and-screen-shots)
 
 ## Objective
 We hope to support queer and trans UCLA students in sharing their experiences with finding housing so the community can begin to understand the impact of Westwood’s high rent prices on students, including their ability to pursue educational and personal goals. We are also interested in seeing how students’ gender and sexual identities impact and intersect with their housing security, and what resources may be developed to support queer and trans UCLA students looking for safe and affordable housing. With this information we hope the school can begin identifying community-based solutions to high rent prices in Westwood and to the disparities in housing security faced by queer and trans students.
